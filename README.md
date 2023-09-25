@@ -64,8 +64,8 @@
 
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
-![Metrics](https://github.com/shubhusion/github-readme-stats)
 
+[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhusion)](https://github.com/shubhusion/github-readme-stats)
 
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
