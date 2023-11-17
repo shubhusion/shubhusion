@@ -73,3 +73,9 @@
 
 
 <br>
+
+<details> 
+  <summary><h2>🏷️ Holopin Badges</h2></summary>
+
+  <p><a href="https://holopin.me/shubham27"><img src="https://holopin.me/shubham27" alt="@shubham27's Holopin board"></a></p>
+</details>
