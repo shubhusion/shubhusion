@@ -73,6 +73,15 @@
 
 <br>
 
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+---
 <details> 
   <summary><h2>🏷️ Holopin Badges</h2></summary>
 
