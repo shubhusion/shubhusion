@@ -2,11 +2,6 @@
 <img width="100%" height = "400px" src="https://github.com/shubhusion/shubhusion/blob/main/Github%20Banner.png" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/shubhusion.https://github.com/shubhusion)
-
 </p>
 <div size='20px'> Hi! My name is Shubham Sharma. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
