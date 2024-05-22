@@ -59,7 +59,7 @@ alt="Exploding Head" width="40" height="40" />   </h2>
 
 
 [![Shubham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhusion&theme=material-palenight&radius=16	)](https://github.com/shubhusion/github-readme-activity-graph)
-<img src="static/assets/img/linebackground.png" width="100%" height="8px"/>
+<img src="linebackground.png" width="100%" height="8px"/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shubhusion&theme=radical&no-frame=true&no-bg=false&margin-w=4)
