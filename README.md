@@ -8,10 +8,10 @@
 </div>
 <img src="linebackground.png" width="100%" height="8px"/>
 <div align="center" >
-  <a href="https://github.com/wendellast">
+  <a href="https://github.com/shubhusion">
     <img   height="100%" src="https://github-readme-stats.vercel.app/api?username=shubhusion&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&border_radius=10"/>
   </a>
-  <a href="https://github.com/wendellast"></a>
+  <a href="https://github.com/shubhusion"></a>
   <img   height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhusion&layout=compact&langs_count=7&theme=catppuccin_mocha&border_radius=10"/>
 </div>
 
