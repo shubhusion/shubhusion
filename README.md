@@ -5,17 +5,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OI&pause=1000&color=C16A75&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+nice+to+meet+you;My+name+is+Shubham+Sharma;I+am+a+Full+Stack+developer;Feel+free+to+get+in+touch+for+anything)](https://git.io/typing-svg)
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="40" height="40" />
-</div>
 <img src="linebackground.png" width="100%" height="8px"/>
-<div align="center" >
-  <a href="https://github.com/shubhusion">
-    <img   height="100%" src="https://github-readme-stats.vercel.app/api?username=shubhusion&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&border_radius=10"/>
-  </a>
-  <a href="https://github.com/shubhusion"></a>
-  <img   height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhusion&layout=compact&langs_count=7&theme=catppuccin_mocha&border_radius=10"/>
-</div>
 
-<img src="static/assets/img/linebackground.png" width="100%" height="8px"/>
+![shubhusion's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhusion&theme=prussian&hide_border=false)
+![shubhusion's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhusion&theme=prussian&show_icons=true&hide_border=false&layout=compact)
+
+<img src="linebackground.png" width="100%" height="8px"/>
 
 <h2  style="color: #ba6771;">Overview 👉 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="40" height="40" /> </h2>
 
