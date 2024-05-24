@@ -60,5 +60,6 @@ alt="Exploding Head" width="40" height="40" />   </h2>
 ![](https://github-profile-trophy.vercel.app/?username=shubhusion&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
----
+<img src="linebackground.png" width="100%" height="8px"/>
+
 [![](https://visitcount.itsvg.in/api?id=shubhusion&icon=0&color=0)](https://visitcount.itsvg.in)
